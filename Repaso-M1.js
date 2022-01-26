@@ -333,7 +333,28 @@ function recorrerAlumno(idCurso, objeto, cb) {
 // las cities que mas se repiten, en orden decreciente 
 // deberia devolver: 
 // [ 'nashville', 'madrid', 'barcelona', 'los angeles', 'london' ]
-
+// const citiesList = [
+//     "nashville",
+//     "nashville",
+//     "los angeles",
+//     "nashville",
+//     "memphis",
+//     "barcelona",
+//     "los angeles",
+//     "sevilla",
+//     "madrid",
+//     "canary islands",
+//     "barcelona",
+//     "madrid",
+//     "nashville",
+//     "barcelona",
+//     "london",
+//     "berlin",
+//     "madrid",
+//     "nashville",
+//     "london",
+//     "madrid",
+// ]
 function orderCities(num) {
     //Tu codigo aca:
 }
